@@ -2,7 +2,7 @@
 * November 2015
 * LCD shield with menu screen
 * No temperature reading
-* Nuss Visatemongkolchai
+* Nuss Visatemongkolchai, Rhino Nevers
 *******************************************************************/
 #include <Wire.h>
 #include <Adafruit_RGBLCDShield.h>
